@@ -17,7 +17,7 @@
 ##16. npm i envalid -force
 ##17. npm i morgan -force
 ##17. npm i --save-dev @types/morgan -force
-##17. npm i morgan -force
-##17. npm i morgan -force
+##17. npm i http-errors -force
+##17. npm i -D @types/http-errors -force
 ##17. npm i morgan -force
 
